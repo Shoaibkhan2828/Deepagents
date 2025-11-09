@@ -48,6 +48,9 @@ Follow these steps to set up and run the project locally.
 ---
 
 ### 1. Clone or Download the Repository  
+```bash
+git clone https://github.com/Shoaibkhan2828/Deepagents.git
+```
 ### 2. Create and Activate a Virtual Environment
 #### Create a virtual environment
 ```bash
