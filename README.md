@@ -49,23 +49,25 @@ Follow these steps to set up and run the project locally.
 
 ### 1. Clone or Download the Repository  
 ### 2. Create and Activate a Virtual Environment
+#### Create a virtual environment
 ```bash
-# Create a virtual environment
 python -m venv venv
 
 # Activate it
 # On Windows:
+```bash
 venv\Scripts\activate
 # On macOS/Linux:
+```bash
 source venv/bin/activate
-
-3. Install Dependencies
+---
+### 3. Install Dependencies
 
 Install all required Python packages using the requirements.txt file:
 ```bash
 pip install -r requirements.txt
 
-4. Run the Streamlit Application
+### 4. Run the Streamlit Application
 
 Launch the Streamlit app:
 ```bash
