@@ -26,6 +26,23 @@ Extending to domain-specific corpora (e.g., healthcare, AI ethics, climate resea
 This project reinforces the idea that AI agents aren’t just tools — they’re collaborators in knowledge discovery.
 Feel free to explore, adapt, or extend this workflow for your own research automation needs.
 
-🏷️ Tags
+⚙️ How to Run the Streamlit App
+Follow these steps to set up and run the project locally.
+🧩 1. Clone or dowload the Repository 
+🐍 2. Create and Activate a Virtual Environment
+# Create a virtual environment
+python -m venv venv
 
-#LangChain #DeepAgents #AI #AgenticWorkflows #ResearchAutomation #LLM #GenerativeAI
+# Activate it
+# On Windows:
+venv\Scripts\activate
+# On macOS/Linux:
+source venv/bin/activate
+
+📦 3. Install Dependencies
+Install all required Python packages using the requirements.txt file:
+pip install -r requirements.txt
+
+🚀 4. Run the Streamlit Application
+Launch the Streamlit app:
+streamlit run app.py
