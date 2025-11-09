@@ -1,0 +1,28 @@
+{
+    "session_id": "sess_20251109_074436_5fc513",
+    "timestamp": "2025-11-09 07:48:14.613193",
+    "user": {
+        "interaction_log": {
+            "user_query": "2410.14728v1",
+            "agent_response": {
+                "research_output": {
+                    "Title": "Security Threats in Agentic AI System",
+                    "Authors": [
+                        "Raihan Khan",
+                        "Sayak Sarkar",
+                        "Sainik Kumar Mahata",
+                        "Edwin Jose"
+                    ],
+                    "Summary": "This research paper explores the privacy and security threats posed to an Agentic AI system with direct access to database systems. Such access introduces significant risks, including unauthorized retrieval of sensitive information, potential exploitation of system vulnerabilities, and misuse of personal or confidential data. The complexity of AI systems combined with their ability to process and analyze large volumes of data increases the chances of data leaks or breaches, which could occur unintentionally or through adversarial manipulation. Furthermore, as AI agents evolve with greater autonomy, their capacity to bypass or exploit security measures becomes a growing concern, heightening the need to address these critical vulnerabilities in agentic systems."
+                },
+                "synthesis_output": {
+                    "Summary": "The document content is needed to summarize the Methods, Findings, Gaps, and Future Work.",
+                    "Methods": "The document content is needed to summarize the Methods section.",
+                    "Findings": "The document content is needed to summarize the Findings section.",
+                    "Gaps_and_Future_Work": "The document content is needed to summarize the Gaps and Future Work section."
+                }
+            }
+        }
+    },
+    "conversation": []
+}

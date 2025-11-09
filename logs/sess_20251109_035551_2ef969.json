@@ -1,0 +1,27 @@
+{
+    "session_id": "sess_20251109_035551_2ef969",
+    "timestamp": "2025-11-09 03:56:12.858590",
+    "user": {
+        "interaction_log": {
+            "user_query": "2505.10468",
+            "agent_response": {
+                "research_output": {
+                    "Title": "AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges",
+                    "Authors": [
+                        "Ranjan Sapkota",
+                        "Konstantinos I. Roumeliotis",
+                        "Manoj Karkee"
+                    ],
+                    "Summary": "This review critically distinguishes between AI Agents and Agentic AI,\noffering a structured, conceptual taxonomy, application mapping, and analysis\nof opportunities and challenges to clarify their divergent design philosophies\nand capabilities. We begin by outlining the search strategy and foundational\ndefinitions, characterizing AI Agents as modular systems driven and enabled by\nLLMs and LIMs for task-specific automation. Generative AI is positioned as a\nprecursor providing the foundation, with AI agents advancing through tool\nintegration, prompt engineering, and reasoning enhancements. We then\ncharacterize Agentic AI systems, which, in contrast to AI Agents, represent a\nparadigm shift marked by multi-agent collaboration, dynamic task decomposition,\npersistent memory, and coordinated autonomy. Through a chronological evaluation\nof architectural evolution, operational mechanisms, interaction styles, and\nautonomy levels, we present a comparative analysis across both AI agents and\nagentic AI paradigms. Application domains enabled by AI Agents such as customer\nsupport, scheduling, and data summarization are then contrasted with Agentic AI\ndeployments in research automation, robotic coordination, and medical decision\nsupport. We further examine unique challenges in each paradigm including\nhallucination, brittleness, emergent behavior, and coordination failure, and\npropose targeted solutions such as ReAct loops, retrieval-augmented generation\n(RAG), automation coordination layers, and causal modeling. This work aims to\nprovide a roadmap for developing robust, scalable, and explainable AI-driven\nsystems."
+                },
+                "synthesis_output": {
+                    "Summary": "This paper introduces a conceptual taxonomy to differentiate between 'AI Agents' (AI systems designed to act on behalf of a user or organization) and 'Agentic AI' (AI systems exhibiting properties of agency, such as autonomy, proactiveness, and social ability). It explores the applications of both types of AI, discusses the challenges associated with their development and deployment, and suggests directions for future research.",
+                    "Methods": "The paper employs a conceptual analysis approach, defining key characteristics of AI agents and agentic AI, and then contrasting the two concepts. It reviews existing literature on AI agents and related fields like multi-agent systems and autonomous systems to identify relevant properties and applications. The paper also uses illustrative examples to highlight the differences between AI agents and agentic AI.",
+                    "Findings": "The paper establishes a clear distinction between AI Agents and Agentic AI based on the level of autonomy and agency exhibited. It identifies key properties of agentic AI, including autonomy, proactiveness, social ability, and adaptivity. The paper also maps out various applications of both AI agents and agentic AI across different domains, such as healthcare, finance, and education. Furthermore, it highlights the challenges related to the development, evaluation, and deployment of agentic AI, including issues of trust, safety, and ethical considerations.",
+                    "Gaps_and_Future_Work": "The paper identifies several gaps in the current understanding and development of agentic AI. These include the need for more robust methods for evaluating the agency of AI systems, the development of theoretical frameworks for understanding and predicting the behavior of agentic AI, and the exploration of ethical and societal implications of increasingly autonomous AI systems. Future work should focus on developing more sophisticated methods for designing, training, and evaluating agentic AI, as well as addressing the ethical and societal challenges associated with their deployment."
+                }
+            }
+        }
+    },
+    "conversation": []
+}
