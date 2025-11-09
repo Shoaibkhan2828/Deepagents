@@ -1,4 +1,4 @@
-# 🧠 Agentic Research Workflow using DeepAgents + LangChain  
+# 🧠 Agentic Research Workflow using Deep Agents & LangChain  
 
 This repository demonstrates an **Agentic Workflow** built using **DeepAgents (LangChain)** for automating academic research and literature synthesis.  
 The system consists of two specialized sub-agents that collaborate to collect, analyze, and summarize research papers.  
@@ -69,6 +69,7 @@ Install all required Python packages using the requirements.txt file:
 ```bash
 pip install -r requirements.txt
 ```
+---
 ### 4. Run the Streamlit Application
 
 Launch the Streamlit app:
